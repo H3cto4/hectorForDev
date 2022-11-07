@@ -1,4 +1,4 @@
-# gndx.io
+# Hector for dev
 
 A minimal landing page for your Social Networks and other shared links.
 
